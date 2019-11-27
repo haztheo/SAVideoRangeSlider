@@ -9,6 +9,7 @@ iOS UI Control Providing An iMovie Style Video Trim Control.
 ![SAVideoRangeSlider screen](http://solovjev.com/libs/SAVideoRangeSlider/purple_ipad.png "SAVideoRangeSlider screen")
 ![SAVideoRangeSlider screen](http://solovjev.com/libs/SAVideoRangeSlider/green_ipad.png "SAVideoRangeSlider screen")
 ![SAVideoRangeSlider screen](http://solovjev.com/libs/SAVideoRangeSlider/star_ipad.png "SAVideoRangeSlider screen")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaztheo%2FSAVideoRangeSlider.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhaztheo%2FSAVideoRangeSlider?ref=badge_shield)
 
 ![SAVideoRangeSlider screen](http://solovjev.com/libs/SAVideoRangeSlider/yellow_iphone.png "SAVideoRangeSlider screen")      
 ![SAVideoRangeSlider screen](http://solovjev.com/libs/SAVideoRangeSlider/gray_iphone.png "SAVideoRangeSlider screen")
@@ -69,3 +70,6 @@ Andrei Solovjev
 
 ## License
 SAVideoRangeSlider is available under the MIT license. See the LICENSE file for more info.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaztheo%2FSAVideoRangeSlider.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhaztheo%2FSAVideoRangeSlider?ref=badge_large)
